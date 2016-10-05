@@ -2,7 +2,7 @@
 2d Java Game (School project)
 
 First game I ever made with Java.  
-Warning! Swing components featured. :)  - Other than that, all Core Java.
+Warning! Swing components featured. :)  - Other than that, all Core Java.  
 All graphics by myself.  
 
 #Sample Screenshots
