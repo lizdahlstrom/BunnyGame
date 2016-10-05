@@ -3,7 +3,7 @@
 
 First game I ever made with Java.
 Warning! Swing components featured. :)
-All graphics by myself.
+All graphics by myself (unfortunately).
 
 #Sample Screenshots
 ![Alt tetxt](https://dl.dropboxusercontent.com/u/72373957/github/bgscreenshot1.PNG)
